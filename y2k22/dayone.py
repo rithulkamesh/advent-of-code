@@ -1,9 +1,10 @@
 from aoc import AOCBase
 
 
-class One(AOCBase):
+class Solution(AOCBase):
 
     def __init__(self):
+        self.day = 1
         self.input = {}
 
     def part_one(self, inp):

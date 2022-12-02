@@ -1,4 +1,4 @@
-from y2k22.dayone import One
+from y2k22.daytwo import Solution
 
-dayOne = One()
-dayOne.solve("y2k22/data/1.txt")
+dayOne = Solution()
+dayOne.solve("y2k22/data/2.txt")
